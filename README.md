@@ -2,4 +2,4 @@
 
 [v1.pierreprezelin.com](https://v1.pierreprezelin.com) · [Astro version](https://github.com/OldsunFlush/portfolio-v1-astro) 🚀
 
-Fully static, made with the 2012 classics (HTML, CSS, jQuery, and a bit of PHP). For easier deployments, codebase has been moved to [Astro](https://astro.build/).
+For easier deployments, codebase has been moved to [Astro](https://astro.build/).
